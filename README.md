@@ -62,8 +62,8 @@
 
 | Project | Description | Tech Used | Link |
 |--------|-------------|-----------|------|
-| 🤖 YOLOv5 Object Detection | Real-time object detection system using YOLOv5 — identifies and classifies objects in images and video streams with high accuracy | Python, YOLOv5, OpenCV 
-| 🛒 E-Commerce Website | A full-featured online shopping platform with product listings, cart functionality, and a responsive UI | HTML, CSS, JavaScript | [View →]() |
+| 🤖 YOLOv5 Object Detection | Real-time object detection system using YOLOv5 — identifies and classifies objects in images and video streams with high accuracy | Python, YOLOv5, OpenCV | [View →](https://drive.google.com/drive/folders/1dhpTQ_01lkTmAsO7hm2rQE2euneysQxA?usp=drive_link) 
+| 🛒 E-Commerce Website | A full-featured online shopping platform with product listings, cart functionality, and a responsive UI | HTML, CSS, JavaScript | [View →](https://github.com/Teja-0403/Ecommerce.git) |
 
 ---
 
