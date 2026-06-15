@@ -5,13 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/vadlamuditejaswini">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:vadlamuditejaswini60@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -24,7 +21,7 @@
 - 💡 I enjoy applying what I learn to **real-world applications** that solve actual problems
 - 🌐 I'm a **Full Stack Web Developer** with a strong foundation in frontend fundamentals
 - 🔭 Always looking for opportunities to grow, collaborate, and contribute
-- 💬 Ask me about **HTML, CSS, JavaScript, and Full Stack Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, Full Stack Development, and AI/ML**
 
 ---
 
@@ -38,6 +35,11 @@
 ### ⚙️ Backend & Full Stack
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=github&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🗄️ Database & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -56,23 +58,20 @@
 
 ## 🚀 Projects
 
-> 💡 *Here are some things I've built or am working on:*
+> 💡 *Here are some things I've built:*
 
 | Project | Description | Tech Used | Link |
 |--------|-------------|-----------|------|
-| 🌐 Project One | Brief description of what it does | HTML, CSS, JS | [View →](#) |
-| ⚙️ Project Two | Brief description of what it does | Node.js, Express | [View →](#) |
-| 📱 Project Three | Brief description of what it does | Full Stack | [View →](#) |
-
-> 📌 *Replace the above with your actual projects once you have them!*
+| 🤖 YOLOv5 Object Detection | Real-time object detection system using YOLOv5 — identifies and classifies objects in images and video streams with high accuracy | Python, YOLOv5, OpenCV 
+| 🛒 E-Commerce Website | A full-featured online shopping platform with product listings, cart functionality, and a responsive UI | HTML, CSS, JavaScript | [View →]() |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Teja-0403&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-0403&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
